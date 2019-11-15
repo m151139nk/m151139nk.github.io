@@ -1,0 +1,21 @@
+h1{
+    color:teal;
+    font-family: "impact";
+    text-align: center;
+    background-color: aqua;
+}
+h2{
+    color: blue;
+     text-align: center;
+    background-color: aqua;
+
+}
+body{
+    background-image: url("../images/a.jpg");
+    background-attachment: fixed;
+}
+
+ol{
+    background-image: url(../images/pan.jpg);
+    
+}
