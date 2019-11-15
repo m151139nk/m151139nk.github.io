@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    font-family: "impact";
+    text-align: center;
+    background-color: aqua;
+}
+
+p{
+    font-size: 25px;
+    font-weight:bold;
+}
+body{
+    background-image: url("../images/a.jpg");
+}
