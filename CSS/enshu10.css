@@ -1,0 +1,54 @@
+div.title{
+    width: 1000px;
+    background-color: aqua;
+    font-size: 70px;
+    font-family: fantasy;
+    margin-bottom: 20px;
+    padding-left: 30px;
+}
+span.menuitem{
+    width: 190px;
+    height: 40px;
+    background-color: azure;
+    text-align: center;
+    font-size: 30px;
+    font-family: impact;
+    display: inline-block;
+    vertical-align: top;
+    border: 5px dotted pink;
+}
+span.images1{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background-color: black;
+    color: white;
+}
+span.images2{
+    display: inline-block;
+     display: inline-block;
+    vertical-align: top;
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    color: white;
+}
+div.article{
+    width: 1000px;
+    height: 100px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 15px;
+}
+div.footer{
+    width: 1000px;
+    height: 50px;
+    background-color: cadetblue;
+    text-align: right;
+    font-size: 40px;
+    margin-top: 20px;
+}
+div.images{
+    font-size: 0;
+    
+}

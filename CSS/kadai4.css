@@ -1,0 +1,27 @@
+h1.aa{
+    color: red;
+    font-family: "impact";
+    text-align: center;
+    background-color: black;
+}
+h1.bb{
+    color: deeppink;
+    font-family: "impact";
+    text-align: center;
+    background-color: azure;
+}
+h2.a{
+    color: blue;
+     text-align: center;
+    background-color: aqua;
+}
+    h2.b{
+    color:green;
+     text-align: center;
+    background-color: red;
+
+}
+body{
+    background-image: url("../images/a.jpg");
+    background-attachment: fixed;
+}

@@ -1,0 +1,78 @@
+div.title{
+    width: 1000px;
+    background-color: aqua;
+    font-size: 70px;
+    font-family: fantasy;
+    margin-bottom: 20px;
+    padding-left: 30px;
+}
+div.mannaka{
+    font-size: 0;
+    display: inline-block;
+    vertical-align: top;
+    width: 1000Px;
+    height: 
+}
+div.a{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 10px;
+    vertical-align: top;
+    width: 250px ;
+    
+
+
+
+}
+div.aa{
+    background-color: aqua;
+    height: 100px;
+    width: 250px;
+}
+
+div.ab{
+    background-color: aqua;
+    height: 100px;
+    width: 250px;
+    margin: 10px 0px;
+    
+    
+    
+}
+
+
+
+
+
+
+div.b{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 10px;
+    background-color: antiquewhite;
+    vertical-align: top;
+    width: 700px;
+    margin-left: 50px;
+    
+}
+
+div.ba{
+    height: 300px;
+    width: 700px;
+}
+div.bb{
+    height: 20px;
+    width: 700;
+    background-color: aqua;
+}
+
+div.footer{
+    background-color: blue;
+    width: 1000px;
+    margin: 20px 0px;
+    
+    
+    
+}
+
+
