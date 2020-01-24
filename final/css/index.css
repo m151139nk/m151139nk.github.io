@@ -1,0 +1,43 @@
+div{
+    text-align: center;
+    margin: auto;
+    
+}
+
+
+
+div.zentai{
+    width: 1000px;
+    font-size: 0px;
+    display: inline-block;
+    vertical-align: top;
+}
+span.menyu{
+    font-size: 40Px;  
+    width: 450px;
+    vertical-align: top;
+    
+    
+}
+div.m1{
+    height: 200px;
+    margin: 20px;
+    background-color: aquamarine
+}
+
+span{
+    display: inline-block;
+    width: 500px;
+    
+}
+p.image{
+    width: 50px;
+    height: 400px
+    
+
+}
+p.setumei{
+    font-size: 20Px;
+    background-color:coral;
+    
+}
