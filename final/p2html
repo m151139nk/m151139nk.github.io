@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+  
+    <head>
+        <meta charset="utf-8">
+        <title>final</title>
+        <link rel="stylesheet"type="text/css"href="css/index.css">
+    </head>
+    <body>
+    
+        <div>
+            <h1>長濵海斗のマインクラフト</h1>
+        </div>
+        
+        <div class="zentai">
+            <span class="menyu">
+                <div class="m1"><a href="index.html">ホーム</a></div>
+                <div class="m1"><a href="p2.html">マインクラフト</a></div>
+                <div class="m1"><a href="p3.html">UFO
+                    キャッチャー</a></div>
+                <div class="m1"><a href="p4.html">ハンドメイド</a></div>
+            </span>
+                
+            <span class="gazou">
+                <div>
+                    <p class="image"><img src="images/%E7%84%A1%E9%A1%8C88_20200110161143.png"></p>
+                
+                </div>
+                <div>
+                    <p class="setumei">マインクラフトはサンドボックス型ゲームの中でもとくに有名なゲームであり、自由度の高いゲームとして有名です。上の画像は私が作ったスキンといわれるもので見た目も自由に変えることができます。</p>
+                </div>
+                <div>
+                    <p class="image"><img src="images/%E7%84%A1%E9%A1%8C92_20200124165257.png"></p>
+                </div>
+                <div>
+                    <p class="setumei">上の写真は私が現代建築を練習している写真です。マインクラフトはプレイヤーの発想次第で無限の可能性が生まれます。</p>
+                </div>
+                <div>
+                <p class="image"><img src="images/%E7%84%A1%E9%A1%8C93_20200124165549.png"></p></div>
+                <div>
+                    <p class="setumei">さらにマルチプレイにも対応しており遠く離れたプレイヤー同士でも一緒に遊ぶことができます。</p>
+                </div>
+            </span>
+        
+        </div>
+        
+        <dib></dib>
+        
+        
+        
+        
+
+    <hr>
+        <address>作成者：長濵海斗　m151139nk@kurume-it.ac.jp</address>
+        
+    </body>
+</html>
